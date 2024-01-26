@@ -9,4 +9,4 @@ for i in range(rows, 0, -1):
         
         print("*", end=" ")  # Print a star
    
-   
+    print()  # Move to the next line after each row
